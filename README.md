@@ -1,0 +1,1 @@
+Add VSCode to ignored applications in PC-Style Control Keys Karabiner Complex Rule.
